@@ -1,0 +1,10 @@
+name: OneDivision
+version: '1.0-SNAPSHOT'
+main: org.division.oneDivision.OneDivision
+api-version: '1.21'
+prefix:
+  ?
+load: STARTUP
+authors: [ Squelette69 ]
+description: Me First Plugin lol
+website: no
